@@ -1,0 +1,3 @@
+id_cuenta,motivo
+C-1005,La cuenta no existe en el portal.
+C-1006,Datos de cuenta inválidos: el valor de la cuenta debe ser mayor que cero.

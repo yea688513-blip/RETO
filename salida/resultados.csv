@@ -1,0 +1,7 @@
+id_cuenta,aseguradora,valor,estado,dias_hasta_radicar
+C-1001,Aseguradora Norte,1250000,radicada,7
+C-1002,Aseguradora Sur,845000,radicada,15
+C-1003,Aseguradora Norte,1320500,en_revision,
+C-1004,Aseguradora Centro,410000,radicada,5
+C-1007,Aseguradora Centro,780000,radicada,2
+C-1008,Aseguradora Sur,560000,devuelta,6

@@ -1,0 +1,9 @@
+id_cuenta,fecha_servicio,valor,aseguradora
+C-1001,03/09/2026,1250000,Aseguradora Norte
+C-1002,15/09/2026,845000,Aseguradora Sur
+C-1003,22/09/2026,"1.320.500",Aseguradora Norte
+C-1004,01/10/2026,410000,Aseguradora Centro
+C-1005,05/10/2026,2100000,Aseguradora Sur
+C-1006,10/10/2026,0,Aseguradora Norte
+C-1007,12/10/2026,780000,Aseguradora Centro
+C-1008,14/10/2026,560000,Aseguradora Sur
